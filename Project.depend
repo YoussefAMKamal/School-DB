@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1661113524 source:c:\users\youssef ahmed\desktop\amit\c\assignment\project\functions.c
+	"Functions.h"
+
+1661112038 c:\users\youssef ahmed\desktop\amit\c\assignment\project\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1661116018 source:c:\users\youssef ahmed\desktop\amit\c\assignment\project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661112038 source:c:\users\youssef ahmed\desktop\amit\c\assignment\project\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1661115812 c:\users\youssef ahmed\desktop\amit\c\assignment\project\main.h
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1661115916 source:c:\users\youssef ahmed\desktop\amit\c\assignment\project\main.h
+
